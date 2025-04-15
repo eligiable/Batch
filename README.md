@@ -3,8 +3,8 @@ Batch Scripts to Automate
 
 ### MySQL Backup
 
-> Batch File Script to Backup MySQL Database and Compress using 7zip.
+> A robust batch script for backing up MySQL databases on Windows systems with optional compression and logging capabilities.
 
 ### SQL Backup
 
-> Powershell Script to Backup SQL Server Database and move to a Network Path.
+> Automate the backup of a SQL Server database with enhanced error handling, detailed logging, and automated file management.
